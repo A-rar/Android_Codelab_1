@@ -7,7 +7,8 @@ Una aplicación Android simple que muestra un mensaje de felicitación de cumple
 
 ### RESULTADO
 
-![image.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/a04789b6-2c4e-457c-baf0-da7692f78e5a/0e257232-a80f-4ed1-a3da-d876f6985f6a/image.png)
+![image.png](https://drive.google.com/uc?export=view&id=1pPHZopXL-kCZWID1JjUvW-wehAU92V_j
+)
 
 ## Características
 
