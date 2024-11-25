@@ -5,10 +5,9 @@
 
 Una aplicación Android simple que muestra un mensaje de felicitación de cumpleaños. La aplicación está construida utilizando Jetpack Compose y demuestra conceptos básicos de diseño y estilo de interfaz de usuario.
 
-### RESULTADO
+## Resultado
 
-![image.png](https://drive.google.com/uc?export=view&id=1pPHZopXL-kCZWID1JjUvW-wehAU92V_j
-)
+![image.png](https://drive.google.com/uc?export=view&id=1pPHZopXL-kCZWID1JjUvW-wehAU92V_j)
 
 ## Características
 
