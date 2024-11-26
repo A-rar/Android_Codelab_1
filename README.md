@@ -7,7 +7,7 @@ Una aplicación Android simple que muestra un mensaje de felicitación de cumple
 
 ## Resultado
 
-![Resultado del Codelab](https://A-rar.github.io/Android_Codelab_1/main/Resultado_Codelab_1.png)
+![Resultado del Codelab](https://raw.githubusercontent.com/A-rar/Android_Codelab_1/main/Resultado_Codelab_1.png)
 
 ## Características
 
